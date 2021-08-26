@@ -1,0 +1,14 @@
+{
+    "name": "hpryzen5/mylib",
+    "description": "Library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jpajpa",
+            "email": "jpajpa@jpa.xom"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
